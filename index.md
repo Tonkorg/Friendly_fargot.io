@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+ Добро пожаловать на домашнюю страницу Tonkorg!
 
 You can use the [editor on GitHub](https://github.com/Tonkorg/Friendly_fargot.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
