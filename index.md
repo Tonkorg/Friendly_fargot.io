@@ -1,38 +1,18 @@
-## Welcome to GitHub Pages
- Добро пожаловать на домашнюю страницу Tonkorg!
+## Добро пожаловать на мой личный сайт
+#Добро пожаловать на домашнюю страницу Tonkorg!
 
-You can use the [editor on GitHub](https://github.com/Tonkorg/Friendly_fargot.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Вотвам немного информации о вомбатах)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Внешне вомбат напоминает медвежонка или очень крупного хомяка. По строению тела и отдельных деталей организма он имеет много общего с коалой, но в действительности их родство достаточно отдалённое.
 
-### Markdown
+Длина тела вомбата — от 70 до 130 см, вес — от 20 до 45 кг. Самым крупным из ныне живущих является широколобый вомбат. Среди вымерших вомбатовых были виды, значительно превосходившие по размерам современных представителей семейства. Так, живший в плейстоцене Phascolonus gigas весил около 200 кг[6].
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Туловище толстое, устроено компактно. Голова большая, производит впечатление слегка расплющенной с боков, глаза маленькие, уши округлые, небольшие, прижаты к голове. Нос у обыкновенного вомбата — голый, у остальных видов — волосатый. Хвост короткий. Конечности короткие и сильные, на каждой из них пять пальцев, из которых внешние четыре увенчаны большими когтями, приспособленными для копания земли. Шерсть тёмная, серых или коричневых оттенков, в зависимости от вида.
 
-```markdown
-Syntax highlighted code block
+Челюсти и зубы вомбатовых проявляют сходство с грызунами. В верхнем и нижнем ряду у вомбатов имеется по паре передних режущих зубов. Жевательные зубы построены весьма просто, угловые зубы отсутствуют. У вомбатовых наименьшее количество зубов среди сумчатых — 12.
 
-# Header 1
-## Header 2
-### Header 3
+У вомбатов острый слух и обоняние, но довольно слабое зрение. Несмотря на внешнюю неуклюжесть, они очень быстрые: спасаясь от опасности, вомбат может легко влезть на дерево, нырнуть в водоём или убежать. Могут бежать со скоростью до 40 км/ч, а на коротких дистанциях достигают скорости в 60 км/ч
 
-- Bulleted
-- List
+# А вот и парочку картинок. Ой, что вы, не благодарите.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tonkorg/Friendly_fargot.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[picture](800px-Wombat4.jpg)
