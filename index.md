@@ -15,4 +15,4 @@
 
 # А вот и парочку картинок. Ой, что вы, не благодарите.
 
-[picture](800px-Wombat4.jpg)
+![picture](800px-Wombat4.jpg)
