@@ -15,4 +15,4 @@
 
 # А вот и парочку картинок. Ой, что вы, не благодарите.
 
-![Картинка Вомбата))](C:\Users\Public\Pictures\Sample Pictures \800px-Wombat4.jpg)
+![Картинка Вомбата))](Pictures/Sample Pictures /Коала.jpg)
